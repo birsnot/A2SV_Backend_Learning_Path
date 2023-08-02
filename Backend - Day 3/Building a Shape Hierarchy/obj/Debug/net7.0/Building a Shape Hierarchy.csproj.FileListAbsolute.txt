@@ -1,0 +1,15 @@
+E:\Practice\C#\source\repos\Backend - Day 3\Building a Shape Hierarchy\bin\Debug\net7.0\Building a Shape Hierarchy.exe
+E:\Practice\C#\source\repos\Backend - Day 3\Building a Shape Hierarchy\bin\Debug\net7.0\Building a Shape Hierarchy.deps.json
+E:\Practice\C#\source\repos\Backend - Day 3\Building a Shape Hierarchy\bin\Debug\net7.0\Building a Shape Hierarchy.runtimeconfig.json
+E:\Practice\C#\source\repos\Backend - Day 3\Building a Shape Hierarchy\bin\Debug\net7.0\Building a Shape Hierarchy.dll
+E:\Practice\C#\source\repos\Backend - Day 3\Building a Shape Hierarchy\bin\Debug\net7.0\Building a Shape Hierarchy.pdb
+E:\Practice\C#\source\repos\Backend - Day 3\Building a Shape Hierarchy\obj\Debug\net7.0\Building a Shape Hierarchy.csproj.AssemblyReference.cache
+E:\Practice\C#\source\repos\Backend - Day 3\Building a Shape Hierarchy\obj\Debug\net7.0\Building a Shape Hierarchy.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\C#\source\repos\Backend - Day 3\Building a Shape Hierarchy\obj\Debug\net7.0\Building a Shape Hierarchy.AssemblyInfoInputs.cache
+E:\Practice\C#\source\repos\Backend - Day 3\Building a Shape Hierarchy\obj\Debug\net7.0\Building a Shape Hierarchy.AssemblyInfo.cs
+E:\Practice\C#\source\repos\Backend - Day 3\Building a Shape Hierarchy\obj\Debug\net7.0\Building a Shape Hierarchy.csproj.CoreCompileInputs.cache
+E:\Practice\C#\source\repos\Backend - Day 3\Building a Shape Hierarchy\obj\Debug\net7.0\Building a Shape Hierarchy.dll
+E:\Practice\C#\source\repos\Backend - Day 3\Building a Shape Hierarchy\obj\Debug\net7.0\refint\Building a Shape Hierarchy.dll
+E:\Practice\C#\source\repos\Backend - Day 3\Building a Shape Hierarchy\obj\Debug\net7.0\Building a Shape Hierarchy.pdb
+E:\Practice\C#\source\repos\Backend - Day 3\Building a Shape Hierarchy\obj\Debug\net7.0\Building a Shape Hierarchy.genruntimeconfig.cache
+E:\Practice\C#\source\repos\Backend - Day 3\Building a Shape Hierarchy\obj\Debug\net7.0\ref\Building a Shape Hierarchy.dll

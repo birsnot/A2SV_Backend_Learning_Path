@@ -1,0 +1,15 @@
+E:\Practice\C#\source\repos\Backend - Day 3\Creating a Library Catalog\bin\Debug\net7.0\Creating a Library Catalog.exe
+E:\Practice\C#\source\repos\Backend - Day 3\Creating a Library Catalog\bin\Debug\net7.0\Creating a Library Catalog.deps.json
+E:\Practice\C#\source\repos\Backend - Day 3\Creating a Library Catalog\bin\Debug\net7.0\Creating a Library Catalog.runtimeconfig.json
+E:\Practice\C#\source\repos\Backend - Day 3\Creating a Library Catalog\bin\Debug\net7.0\Creating a Library Catalog.dll
+E:\Practice\C#\source\repos\Backend - Day 3\Creating a Library Catalog\bin\Debug\net7.0\Creating a Library Catalog.pdb
+E:\Practice\C#\source\repos\Backend - Day 3\Creating a Library Catalog\obj\Debug\net7.0\Creating a Library Catalog.csproj.AssemblyReference.cache
+E:\Practice\C#\source\repos\Backend - Day 3\Creating a Library Catalog\obj\Debug\net7.0\Creating a Library Catalog.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\C#\source\repos\Backend - Day 3\Creating a Library Catalog\obj\Debug\net7.0\Creating a Library Catalog.AssemblyInfoInputs.cache
+E:\Practice\C#\source\repos\Backend - Day 3\Creating a Library Catalog\obj\Debug\net7.0\Creating a Library Catalog.AssemblyInfo.cs
+E:\Practice\C#\source\repos\Backend - Day 3\Creating a Library Catalog\obj\Debug\net7.0\Creating a Library Catalog.csproj.CoreCompileInputs.cache
+E:\Practice\C#\source\repos\Backend - Day 3\Creating a Library Catalog\obj\Debug\net7.0\Creating a Library Catalog.dll
+E:\Practice\C#\source\repos\Backend - Day 3\Creating a Library Catalog\obj\Debug\net7.0\refint\Creating a Library Catalog.dll
+E:\Practice\C#\source\repos\Backend - Day 3\Creating a Library Catalog\obj\Debug\net7.0\Creating a Library Catalog.pdb
+E:\Practice\C#\source\repos\Backend - Day 3\Creating a Library Catalog\obj\Debug\net7.0\Creating a Library Catalog.genruntimeconfig.cache
+E:\Practice\C#\source\repos\Backend - Day 3\Creating a Library Catalog\obj\Debug\net7.0\ref\Creating a Library Catalog.dll

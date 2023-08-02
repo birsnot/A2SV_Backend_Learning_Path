@@ -117,8 +117,6 @@ class Program
         library.AddMediaItem(new MediaItem("Yeberedo Zemen", "DVD", 150));
         library.AddMediaItem(new MediaItem("400 Fikir", "CD", 120));
 
-        Book mybook = new Book("ttl", "aut", "isb", 1222);
-
         Console.WriteLine($"\t\t\t{library.Name.ToUpper()}");
 
         string command;

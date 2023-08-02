@@ -1,0 +1,54 @@
+Test 1 output:
+
+Enter a string to check if it's palindrome:
+a2sv
+a2sv is not palindrome
+
+
+Test 2 output:
+
+Enter a string to check if it's palindrome:
+nardos
+nardos is not palindrome
+
+
+Test 3 output:
+
+Enter a string to check if it's palindrome:
+naran
+naran is palindrome
+
+
+Test 4 output:
+
+Enter a string to check if it's palindrome:
+**(?? n a&*(^r     ()(**&n   **&*
+**(?? n a&*(^r     ()(**&n   **&* is not palindrome
+
+
+Test 5 output:
+
+Enter a string to check if it's palindrome:
+**(?? n a&*(^r     ()(**&n   **&*
+**(?? n a&*(^r     ()(**&n   **&* is not palindrome
+
+
+Test 6 output:
+
+Enter a string to check if it's palindrome:
+**(?? n a&*(^r     (a)(**&n   **&*
+**(?? n a&*(^r     (a)(**&n   **&* is palindrome
+
+
+Test 7 output:
+
+Enter a string to check if it's palindrome:
+a2svvs2a
+a2svvs2a is palindrome
+
+
+Test 8 output:
+
+Enter a string to check if it's palindrome:
+a2sVvS2A
+a2sVvS2A is palindrome

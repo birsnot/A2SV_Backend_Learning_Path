@@ -1,0 +1,20 @@
+Enter a string to count its words:
+My name is Nardos Wehabe.I am an A2SV member or A2SVian. I AM also a backend member in a2Sv.
+
+WORD                COUNT
+ my                  1
+ name                1
+ is                  1
+ nardos              1
+ wehabe              1
+ i                   2
+ am                  2
+ an                  1
+ a2sv                2
+ member              2
+ or                  1
+ a2svian             1
+ also                1
+ a                   1
+ backend             1
+ in                  1

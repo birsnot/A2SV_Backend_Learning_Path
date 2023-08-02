@@ -1,0 +1,50 @@
+                        STUDENT GRADE CALCULATOR
+
+Enter the name of the student:
+
+Invalid input. Enter the name of the student:
+Nardos
+
+Enter the number of subjects Nardos is taking:
+-23
+Invalid input. Enter the number of subjects Nardos is taking:
+0
+Invalid input. Enter the number of subjects Nardos is taking:
+3
+
+Enter the name of subject #1:
+Physics
+
+Enter the grade for Physics:
+-1
+Invalid input. Enter the grade for Physics:
+104
+Invalid input. Enter the grade for Physics:
+91
+
+Enter the name of subject #2:
+Maths
+
+Enter the grade for Maths:
+94
+
+Enter the name of subject #3:
+Physics
+Invalid input. Enter the name of subject #3:
+Maths
+Invalid input. Enter the name of subject #3:
+Chemistry
+
+Enter the grade for Chemistry:
+89
+
+============================================
+Student's Name: Nardos
+
+SUBJECT             GRADE
+ Physics             91
+ Maths               94
+ Chemistry           89
+
+Average Grade: 91.33
+============================================

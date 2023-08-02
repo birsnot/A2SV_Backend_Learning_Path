@@ -1,0 +1,15 @@
+E:\Practice\C#\source\repos\Backend - Day 2\Word Frequency Count\bin\Debug\net7.0\Word Frequency Count.exe
+E:\Practice\C#\source\repos\Backend - Day 2\Word Frequency Count\bin\Debug\net7.0\Word Frequency Count.deps.json
+E:\Practice\C#\source\repos\Backend - Day 2\Word Frequency Count\bin\Debug\net7.0\Word Frequency Count.runtimeconfig.json
+E:\Practice\C#\source\repos\Backend - Day 2\Word Frequency Count\bin\Debug\net7.0\Word Frequency Count.dll
+E:\Practice\C#\source\repos\Backend - Day 2\Word Frequency Count\bin\Debug\net7.0\Word Frequency Count.pdb
+E:\Practice\C#\source\repos\Backend - Day 2\Word Frequency Count\obj\Debug\net7.0\Word Frequency Count.csproj.AssemblyReference.cache
+E:\Practice\C#\source\repos\Backend - Day 2\Word Frequency Count\obj\Debug\net7.0\Word Frequency Count.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\C#\source\repos\Backend - Day 2\Word Frequency Count\obj\Debug\net7.0\Word Frequency Count.AssemblyInfoInputs.cache
+E:\Practice\C#\source\repos\Backend - Day 2\Word Frequency Count\obj\Debug\net7.0\Word Frequency Count.AssemblyInfo.cs
+E:\Practice\C#\source\repos\Backend - Day 2\Word Frequency Count\obj\Debug\net7.0\Word Frequency Count.csproj.CoreCompileInputs.cache
+E:\Practice\C#\source\repos\Backend - Day 2\Word Frequency Count\obj\Debug\net7.0\Word Frequency Count.dll
+E:\Practice\C#\source\repos\Backend - Day 2\Word Frequency Count\obj\Debug\net7.0\refint\Word Frequency Count.dll
+E:\Practice\C#\source\repos\Backend - Day 2\Word Frequency Count\obj\Debug\net7.0\Word Frequency Count.pdb
+E:\Practice\C#\source\repos\Backend - Day 2\Word Frequency Count\obj\Debug\net7.0\Word Frequency Count.genruntimeconfig.cache
+E:\Practice\C#\source\repos\Backend - Day 2\Word Frequency Count\obj\Debug\net7.0\ref\Word Frequency Count.dll

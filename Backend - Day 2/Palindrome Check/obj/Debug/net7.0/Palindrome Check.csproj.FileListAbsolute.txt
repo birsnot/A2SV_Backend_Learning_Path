@@ -1,0 +1,15 @@
+E:\Practice\C#\source\repos\Backend - Day 2\Palindrome Check\bin\Debug\net7.0\Palindrome Check.exe
+E:\Practice\C#\source\repos\Backend - Day 2\Palindrome Check\bin\Debug\net7.0\Palindrome Check.deps.json
+E:\Practice\C#\source\repos\Backend - Day 2\Palindrome Check\bin\Debug\net7.0\Palindrome Check.runtimeconfig.json
+E:\Practice\C#\source\repos\Backend - Day 2\Palindrome Check\bin\Debug\net7.0\Palindrome Check.dll
+E:\Practice\C#\source\repos\Backend - Day 2\Palindrome Check\bin\Debug\net7.0\Palindrome Check.pdb
+E:\Practice\C#\source\repos\Backend - Day 2\Palindrome Check\obj\Debug\net7.0\Palindrome Check.csproj.AssemblyReference.cache
+E:\Practice\C#\source\repos\Backend - Day 2\Palindrome Check\obj\Debug\net7.0\Palindrome Check.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\C#\source\repos\Backend - Day 2\Palindrome Check\obj\Debug\net7.0\Palindrome Check.AssemblyInfoInputs.cache
+E:\Practice\C#\source\repos\Backend - Day 2\Palindrome Check\obj\Debug\net7.0\Palindrome Check.AssemblyInfo.cs
+E:\Practice\C#\source\repos\Backend - Day 2\Palindrome Check\obj\Debug\net7.0\Palindrome Check.csproj.CoreCompileInputs.cache
+E:\Practice\C#\source\repos\Backend - Day 2\Palindrome Check\obj\Debug\net7.0\Palindrome Check.dll
+E:\Practice\C#\source\repos\Backend - Day 2\Palindrome Check\obj\Debug\net7.0\refint\Palindrome Check.dll
+E:\Practice\C#\source\repos\Backend - Day 2\Palindrome Check\obj\Debug\net7.0\Palindrome Check.pdb
+E:\Practice\C#\source\repos\Backend - Day 2\Palindrome Check\obj\Debug\net7.0\Palindrome Check.genruntimeconfig.cache
+E:\Practice\C#\source\repos\Backend - Day 2\Palindrome Check\obj\Debug\net7.0\ref\Palindrome Check.dll

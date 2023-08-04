@@ -1,0 +1,15 @@
+E:\Practice\C#\source\repos\Backend - Day 4\Simple Task Manager\bin\Debug\net7.0\Simple Task Manager.exe
+E:\Practice\C#\source\repos\Backend - Day 4\Simple Task Manager\bin\Debug\net7.0\Simple Task Manager.deps.json
+E:\Practice\C#\source\repos\Backend - Day 4\Simple Task Manager\bin\Debug\net7.0\Simple Task Manager.runtimeconfig.json
+E:\Practice\C#\source\repos\Backend - Day 4\Simple Task Manager\bin\Debug\net7.0\Simple Task Manager.dll
+E:\Practice\C#\source\repos\Backend - Day 4\Simple Task Manager\bin\Debug\net7.0\Simple Task Manager.pdb
+E:\Practice\C#\source\repos\Backend - Day 4\Simple Task Manager\obj\Debug\net7.0\Simple Task Manager.csproj.AssemblyReference.cache
+E:\Practice\C#\source\repos\Backend - Day 4\Simple Task Manager\obj\Debug\net7.0\Simple Task Manager.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\C#\source\repos\Backend - Day 4\Simple Task Manager\obj\Debug\net7.0\Simple Task Manager.AssemblyInfoInputs.cache
+E:\Practice\C#\source\repos\Backend - Day 4\Simple Task Manager\obj\Debug\net7.0\Simple Task Manager.AssemblyInfo.cs
+E:\Practice\C#\source\repos\Backend - Day 4\Simple Task Manager\obj\Debug\net7.0\Simple Task Manager.csproj.CoreCompileInputs.cache
+E:\Practice\C#\source\repos\Backend - Day 4\Simple Task Manager\obj\Debug\net7.0\Simple Task Manager.dll
+E:\Practice\C#\source\repos\Backend - Day 4\Simple Task Manager\obj\Debug\net7.0\refint\Simple Task Manager.dll
+E:\Practice\C#\source\repos\Backend - Day 4\Simple Task Manager\obj\Debug\net7.0\Simple Task Manager.pdb
+E:\Practice\C#\source\repos\Backend - Day 4\Simple Task Manager\obj\Debug\net7.0\Simple Task Manager.genruntimeconfig.cache
+E:\Practice\C#\source\repos\Backend - Day 4\Simple Task Manager\obj\Debug\net7.0\ref\Simple Task Manager.dll

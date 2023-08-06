@@ -1,0 +1,17 @@
+E:\Practice\C#\A2SV Backend Tasks\Backend - Day 5\Student Management System\bin\Debug\net7.0\Student Management System.exe
+E:\Practice\C#\A2SV Backend Tasks\Backend - Day 5\Student Management System\bin\Debug\net7.0\Student Management System.deps.json
+E:\Practice\C#\A2SV Backend Tasks\Backend - Day 5\Student Management System\bin\Debug\net7.0\Student Management System.runtimeconfig.json
+E:\Practice\C#\A2SV Backend Tasks\Backend - Day 5\Student Management System\bin\Debug\net7.0\Student Management System.dll
+E:\Practice\C#\A2SV Backend Tasks\Backend - Day 5\Student Management System\bin\Debug\net7.0\Student Management System.pdb
+E:\Practice\C#\A2SV Backend Tasks\Backend - Day 5\Student Management System\obj\Debug\net7.0\Student Management System.csproj.AssemblyReference.cache
+E:\Practice\C#\A2SV Backend Tasks\Backend - Day 5\Student Management System\obj\Debug\net7.0\Student Management System.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\C#\A2SV Backend Tasks\Backend - Day 5\Student Management System\obj\Debug\net7.0\Student Management System.AssemblyInfoInputs.cache
+E:\Practice\C#\A2SV Backend Tasks\Backend - Day 5\Student Management System\obj\Debug\net7.0\Student Management System.AssemblyInfo.cs
+E:\Practice\C#\A2SV Backend Tasks\Backend - Day 5\Student Management System\obj\Debug\net7.0\Student Management System.csproj.CoreCompileInputs.cache
+E:\Practice\C#\A2SV Backend Tasks\Backend - Day 5\Student Management System\obj\Debug\net7.0\Student Management System.dll
+E:\Practice\C#\A2SV Backend Tasks\Backend - Day 5\Student Management System\obj\Debug\net7.0\refint\Student Management System.dll
+E:\Practice\C#\A2SV Backend Tasks\Backend - Day 5\Student Management System\obj\Debug\net7.0\Student Management System.pdb
+E:\Practice\C#\A2SV Backend Tasks\Backend - Day 5\Student Management System\obj\Debug\net7.0\Student Management System.genruntimeconfig.cache
+E:\Practice\C#\A2SV Backend Tasks\Backend - Day 5\Student Management System\obj\Debug\net7.0\ref\Student Management System.dll
+E:\Practice\C#\A2SV Backend Tasks\Backend - Day 5\Student Management System\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\Practice\C#\A2SV Backend Tasks\Backend - Day 5\Student Management System\obj\Debug\net7.0\Student Management System.csproj.CopyComplete

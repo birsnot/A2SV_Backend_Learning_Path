@@ -1,0 +1,32 @@
+[
+  {
+    "Name": "Alazar",
+    "Age": 21,
+    "RollNumber": 1,
+    "Grade": "3.5"
+  },
+  {
+    "Name": "Etag",
+    "Age": 33,
+    "RollNumber": 10,
+    "Grade": "3.98"
+  },
+  {
+    "Name": "Legesse",
+    "Age": 26,
+    "RollNumber": 19,
+    "Grade": "4.00"
+  },
+  {
+    "Name": "Meaza",
+    "Age": 28,
+    "RollNumber": 21,
+    "Grade": "3.75"
+  },
+  {
+    "Name": "Nardos",
+    "Age": 24,
+    "RollNumber": 27,
+    "Grade": "3.99"
+  }
+]

@@ -1,0 +1,8 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=23a5d391_002D1e95_002D4028_002D916a_002D013bafdeafa2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Delete_WithInvalidCommentId_ReturnsBadRequest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::8FF2A600-C633-4B78-AD3F-55BC511AD1A4::net7.0::Tests.CommentsControllerTests.Delete_WithInvalidCommentId_ReturnsBadRequest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::8FF2A600-C633-4B78-AD3F-55BC511AD1A4::net7.0::Tests.PostsControllerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::8FF2A600-C633-4B78-AD3F-55BC511AD1A4::net7.0::Tests.CommentsControllerTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Clean.Blog.Application/1.0.0": {
+        "dependencies": {
+          "Clean.Blog.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Clean.Blog.Application.dll": {}
+        }
+      },
+      "Clean.Blog.Domain/1.0.0": {
+        "runtime": {
+          "Clean.Blog.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Clean.Blog.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Clean.Blog.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

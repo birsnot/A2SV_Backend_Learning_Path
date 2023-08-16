@@ -1,0 +1,15 @@
+E:\Practice\C#\A2SV Backend Tasks\Backend - Day 10\Clean.Blog\Clean.Blog.Application\bin\Debug\net7.0\Clean.Blog.Application.deps.json
+E:\Practice\C#\A2SV Backend Tasks\Backend - Day 10\Clean.Blog\Clean.Blog.Application\bin\Debug\net7.0\Clean.Blog.Application.dll
+E:\Practice\C#\A2SV Backend Tasks\Backend - Day 10\Clean.Blog\Clean.Blog.Application\bin\Debug\net7.0\Clean.Blog.Application.pdb
+E:\Practice\C#\A2SV Backend Tasks\Backend - Day 10\Clean.Blog\Clean.Blog.Application\bin\Debug\net7.0\Clean.Blog.Domain.dll
+E:\Practice\C#\A2SV Backend Tasks\Backend - Day 10\Clean.Blog\Clean.Blog.Application\bin\Debug\net7.0\Clean.Blog.Domain.pdb
+E:\Practice\C#\A2SV Backend Tasks\Backend - Day 10\Clean.Blog\Clean.Blog.Application\obj\Debug\net7.0\Clean.Blog.Application.csproj.AssemblyReference.cache
+E:\Practice\C#\A2SV Backend Tasks\Backend - Day 10\Clean.Blog\Clean.Blog.Application\obj\Debug\net7.0\Clean.Blog.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\C#\A2SV Backend Tasks\Backend - Day 10\Clean.Blog\Clean.Blog.Application\obj\Debug\net7.0\Clean.Blog.Application.AssemblyInfoInputs.cache
+E:\Practice\C#\A2SV Backend Tasks\Backend - Day 10\Clean.Blog\Clean.Blog.Application\obj\Debug\net7.0\Clean.Blog.Application.AssemblyInfo.cs
+E:\Practice\C#\A2SV Backend Tasks\Backend - Day 10\Clean.Blog\Clean.Blog.Application\obj\Debug\net7.0\Clean.Blog.Application.csproj.CoreCompileInputs.cache
+E:\Practice\C#\A2SV Backend Tasks\Backend - Day 10\Clean.Blog\Clean.Blog.Application\obj\Debug\net7.0\Clean.Blog.Application.csproj.CopyComplete
+E:\Practice\C#\A2SV Backend Tasks\Backend - Day 10\Clean.Blog\Clean.Blog.Application\obj\Debug\net7.0\Clean.Blog.Application.dll
+E:\Practice\C#\A2SV Backend Tasks\Backend - Day 10\Clean.Blog\Clean.Blog.Application\obj\Debug\net7.0\refint\Clean.Blog.Application.dll
+E:\Practice\C#\A2SV Backend Tasks\Backend - Day 10\Clean.Blog\Clean.Blog.Application\obj\Debug\net7.0\Clean.Blog.Application.pdb
+E:\Practice\C#\A2SV Backend Tasks\Backend - Day 10\Clean.Blog\Clean.Blog.Application\obj\Debug\net7.0\ref\Clean.Blog.Application.dll

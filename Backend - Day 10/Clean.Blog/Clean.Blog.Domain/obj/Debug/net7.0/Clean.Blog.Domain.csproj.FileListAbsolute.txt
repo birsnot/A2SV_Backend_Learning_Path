@@ -1,0 +1,12 @@
+E:\Practice\C#\A2SV Backend Tasks\Backend - Day 10\Clean.Blog\Clean.Blog.Domain\bin\Debug\net7.0\Clean.Blog.Domain.deps.json
+E:\Practice\C#\A2SV Backend Tasks\Backend - Day 10\Clean.Blog\Clean.Blog.Domain\bin\Debug\net7.0\Clean.Blog.Domain.dll
+E:\Practice\C#\A2SV Backend Tasks\Backend - Day 10\Clean.Blog\Clean.Blog.Domain\bin\Debug\net7.0\Clean.Blog.Domain.pdb
+E:\Practice\C#\A2SV Backend Tasks\Backend - Day 10\Clean.Blog\Clean.Blog.Domain\obj\Debug\net7.0\Clean.Blog.Domain.csproj.AssemblyReference.cache
+E:\Practice\C#\A2SV Backend Tasks\Backend - Day 10\Clean.Blog\Clean.Blog.Domain\obj\Debug\net7.0\Clean.Blog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\C#\A2SV Backend Tasks\Backend - Day 10\Clean.Blog\Clean.Blog.Domain\obj\Debug\net7.0\Clean.Blog.Domain.AssemblyInfoInputs.cache
+E:\Practice\C#\A2SV Backend Tasks\Backend - Day 10\Clean.Blog\Clean.Blog.Domain\obj\Debug\net7.0\Clean.Blog.Domain.AssemblyInfo.cs
+E:\Practice\C#\A2SV Backend Tasks\Backend - Day 10\Clean.Blog\Clean.Blog.Domain\obj\Debug\net7.0\Clean.Blog.Domain.csproj.CoreCompileInputs.cache
+E:\Practice\C#\A2SV Backend Tasks\Backend - Day 10\Clean.Blog\Clean.Blog.Domain\obj\Debug\net7.0\Clean.Blog.Domain.dll
+E:\Practice\C#\A2SV Backend Tasks\Backend - Day 10\Clean.Blog\Clean.Blog.Domain\obj\Debug\net7.0\refint\Clean.Blog.Domain.dll
+E:\Practice\C#\A2SV Backend Tasks\Backend - Day 10\Clean.Blog\Clean.Blog.Domain\obj\Debug\net7.0\Clean.Blog.Domain.pdb
+E:\Practice\C#\A2SV Backend Tasks\Backend - Day 10\Clean.Blog\Clean.Blog.Domain\obj\Debug\net7.0\ref\Clean.Blog.Domain.dll

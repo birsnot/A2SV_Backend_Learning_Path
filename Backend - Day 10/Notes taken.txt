@@ -1,0 +1,85 @@
+CLEAN ARCHITECTURE - DAY 10 NOTES
+
+- Clean architecture formerly known as...
+ - Onion Architecture
+ - Hexagonal Architecture
+ - Ports and Adapters
+- A domain-contric approach to organizing dependencies
+- Dependence on infrastructure concerns is minimized; keeping focus on domain logic
+
+When would you want to use Clean Architecture?
+- Practice Domain-Driven Design and want focus on domain model, not infrastructure
+- Complex business logic warrants highly testable architecture
+- Want architecture to help enforce polices, rather than relying on contributors to consistently do the right thing
+ - Similar to strong types or field visibility constraints
+
+Two Approaches to Architectral Layers
+	1. N-tier / N-Layer
+	2. Clean Architecture
+
+Clean Architecture Rules
+	1. Model all business rules and entities in the Core project
+	2. All dependencies flow toward the Core project
+	3. Inner projects define interfaces; outer projects implement them
+	
+What belongs in the Core project
+- Interfaces, Aggregates, Entities, Value Objects, Domain Services, Domain Exception
+- Domain Events, Event Handlers, Specifications, Validators, Enums, Custom Guards
+
+To Create a template:
+>> dotnet new clean-arch -n `solutionName`
+
+What belongs in the infrastructure project
+- Repositories, DbContext classes, Cached Repositories, API Clients, File System Accessors, Azure Storage Accessors, Emailing Implementations, SMS Implementations, System Clock
+- Other Services, Interfaces
+
+What belongs in the Web project
+- API Endpoints, Razor Pages, Controllers, Views, API Models, ViewModels, Filters, Model Binders, Tag Helpers
+- Composition Root, Other Services, Interfaces
+
+The "Shared Kernel"
+	- Domain-Driven Design term
+	- Holds common types shared between DDD apps
+	- Typically referenced by Core project(s)
+	- Ideally distributed as NuGet Packages
+
+What belongs in the Shared Kernel project
+- Base Entity, Base Value Object, Base Domain Event, Base Specification, Common Interfaces, Common Exceptions, Common Auth, Common Guards, Common Libraries
+- DI, Logging, Validators
+* No Infrastructure Dependencies in Shared Kernel!
+
+All-In-One Architecture
+Pros:
+	- Easier to deliver
+	- Can be stable and a long term solution
+Cons:
+	- Hard to enforce SOLID principles
+	- Harder to maintain as project grows
+	- Harder to test
+	
+Layered Architecture
+Pros:
+	- Better enforcing of SOLID principles
+	- Easier to maintain larger code base
+Cons:
+	- Layers are dependent
+	- Still acts as one application
+	- Logic is sometimes scattered across layers
+	
+Onion/Clean Architecture
+Pros:
+	- It provides better testability as unit tests can be created for separate layers
+	- Easier to make changes in code base without directly affecting other modules
+	- Promotes loose coupling
+Cons:
+	- Learning curve
+	- Time consuming
+	
+* Be careful! Not every application needs 'Clean Architecture'
+
+- Do you REALLY need it?
+	- Good software meets the business needs
+	- Maintainable software increases the lifespan of the software
+- What is the scale of the application?
+	- Not every project needs "Clean Architecture" from day one
+	- Start small and extend as needed
